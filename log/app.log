@@ -1,0 +1,1188 @@
+2020-08-14 00:36:55,369 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-106] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:36:56,375 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:36:56,375 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:36:56,784 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:36:56,788 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:36:56,788 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:36:56,814 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:36:56,814 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 437 ms
+2020-08-14 00:36:56,923 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:36:56,958 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:36:56,965 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:36:57,000 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:36:57,001 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:36:57,004 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:36:57,016 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:36:57,016 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.662 seconds (JVM running for 7027.569)
+2020-08-14 00:36:57,018 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:37:59,293 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-112] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:38:00,170 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:38:00,172 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:38:00,562 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:38:00,563 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:38:00,564 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:38:00,585 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:38:00,585 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 413 ms
+2020-08-14 00:38:00,679 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:38:00,717 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:38:00,724 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:38:00,758 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:38:00,759 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:38:00,762 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:38:00,774 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:38:00,775 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.621 seconds (JVM running for 7091.327)
+2020-08-14 00:38:00,776 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:38:12,756 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-118] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:38:13,526 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:38:13,526 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:38:13,903 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:38:13,904 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:38:13,904 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:38:13,927 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:38:13,927 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 400 ms
+2020-08-14 00:38:14,066 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:38:14,099 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:38:14,107 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:38:14,141 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:38:14,142 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:38:14,145 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:38:14,156 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:38:14,157 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.648 seconds (JVM running for 7104.709)
+2020-08-14 00:38:14,158 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:40:38,626 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-124] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:40:39,419 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:40:39,419 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:40:39,798 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:40:39,800 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:40:39,800 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:40:39,828 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:40:39,829 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 409 ms
+2020-08-14 00:40:39,945 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:40:39,979 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:40:39,987 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:40:40,022 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:40:40,023 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:40:40,025 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:40:40,038 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:40:40,038 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.638 seconds (JVM running for 7250.591)
+2020-08-14 00:40:40,040 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:42:12,763 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-130] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:42:13,631 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:42:13,631 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:42:14,051 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:42:14,051 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:42:14,051 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:42:14,077 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:42:14,077 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 444 ms
+2020-08-14 00:42:14,164 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:42:14,197 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:42:14,205 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:42:14,239 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:42:14,239 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:42:14,242 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:42:14,255 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:42:14,256 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.641 seconds (JVM running for 7344.808)
+2020-08-14 00:42:14,257 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:42:36,948 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-136] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:42:37,772 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:42:37,773 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:42:38,173 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:42:38,173 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:42:38,173 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:42:38,197 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:42:38,197 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 422 ms
+2020-08-14 00:42:38,290 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:42:38,323 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:42:38,332 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:42:38,364 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:42:38,365 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:42:38,368 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:42:38,381 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:42:38,382 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.628 seconds (JVM running for 7368.934)
+2020-08-14 00:42:38,383 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:45:24,448 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-142] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:45:25,337 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:45:25,337 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:45:25,800 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:45:25,800 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:45:25,801 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:45:25,829 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:45:25,829 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 491 ms
+2020-08-14 00:45:25,917 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:45:25,950 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:45:25,958 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:45:25,992 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:45:25,993 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:45:25,996 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:45:26,066 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:45:26,068 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.748 seconds (JVM running for 7536.62)
+2020-08-14 00:45:26,070 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:46:09,975 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-148] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:46:10,881 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:46:10,881 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:46:11,335 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:46:11,335 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:46:11,336 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:46:11,361 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:46:11,361 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 479 ms
+2020-08-14 00:46:11,480 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:46:11,516 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:46:11,524 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:46:11,557 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:46:11,558 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:46:11,561 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:46:11,573 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:46:11,574 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.71 seconds (JVM running for 7582.126)
+2020-08-14 00:46:11,575 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:46:25,150 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-154] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:46:26,018 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:46:26,019 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:46:26,449 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:46:26,449 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:46:26,449 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:46:26,479 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:46:26,479 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 458 ms
+2020-08-14 00:46:26,654 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:46:26,689 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:46:26,696 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:46:26,732 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:46:26,733 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:46:26,735 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:46:26,748 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:46:26,749 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.753 seconds (JVM running for 7597.301)
+2020-08-14 00:46:26,750 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:46:53,578 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-160] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:46:54,450 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:46:54,451 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:46:54,840 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:46:54,841 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:46:54,841 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:46:54,867 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:46:54,867 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 415 ms
+2020-08-14 00:46:54,956 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:46:54,990 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:46:54,998 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:46:55,031 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:46:55,032 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:46:55,035 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:46:55,052 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:46:55,052 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.617 seconds (JVM running for 7625.604)
+2020-08-14 00:46:55,054 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:47:17,770 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-166] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:47:18,670 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:47:18,670 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:47:19,086 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:47:19,087 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:47:19,087 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:47:19,130 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:47:19,131 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 459 ms
+2020-08-14 00:47:19,226 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:47:19,262 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:47:19,270 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:47:19,306 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:47:19,307 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:47:19,310 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:47:19,324 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:47:19,324 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.674 seconds (JVM running for 7649.877)
+2020-08-14 00:47:19,326 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:47:54,251 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-172] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:47:55,096 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:47:55,097 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:47:55,526 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:47:55,526 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:47:55,526 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:47:55,550 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:47:55,550 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 452 ms
+2020-08-14 00:47:55,647 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:47:55,685 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:47:55,695 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:47:55,731 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:47:55,732 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:47:55,735 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:47:55,751 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:47:55,751 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.67 seconds (JVM running for 7686.304)
+2020-08-14 00:47:55,752 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:49:39,757 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-178] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:49:40,609 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:49:40,609 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:49:41,017 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:49:41,018 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:49:41,018 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:49:41,045 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:49:41,045 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 435 ms
+2020-08-14 00:49:41,132 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:49:41,168 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:49:41,177 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:49:41,212 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:49:41,213 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:49:41,217 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:49:41,233 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:49:41,233 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.64 seconds (JVM running for 7791.785)
+2020-08-14 00:49:41,235 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:50:29,342 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-184] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:50:30,218 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 39116 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:50:30,218 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:50:30,674 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:50:30,675 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:50:30,675 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:50:30,699 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:50:30,699 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 480 ms
+2020-08-14 00:50:30,788 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:50:30,824 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:50:30,832 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:50:30,869 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:50:30,871 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:50:30,874 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:50:30,888 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:50:30,889 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.69 seconds (JVM running for 7841.441)
+2020-08-14 00:50:30,891 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:50:40,314 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 00:50:40,317 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 00:50:40,324 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-08-14 00:50:40,327 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:50:40,330 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:50:43,465 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:50:44,911 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:50:44,915 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:50:46,772 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:50:46,782 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:50:48,501 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:50:48,502 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:50:50,370 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:50:50,371 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:51:01,928 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:51:01,930 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:51:05,957 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:51:05,964 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:51:08,348 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:51:08,352 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:51:13,279 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
+2020-08-14 00:51:13,282 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(2)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:52:47,402 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 27948 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:52:47,405 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:52:47,456 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-14 00:52:47,456 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-14 00:52:51,178 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:52:51,206 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:52:51,206 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:52:51,333 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:52:51,333 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 3876 ms
+2020-08-14 00:52:51,951 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:52:52,143 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:52:52,175 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:52:52,362 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:52:52,394 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:52:52,435 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:52:52,651 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:52:52,655 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 5.71 seconds (JVM running for 6.346)
+2020-08-14 00:52:58,978 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 00:52:58,978 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 00:52:58,996 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 18 ms
+2020-08-14 00:52:59,049 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:52:59,059 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:54:20,658 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 52416 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:54:20,661 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:54:20,713 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-14 00:54:20,713 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-14 00:54:24,080 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:54:24,108 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:54:24,108 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:54:24,237 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:54:24,238 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 3525 ms
+2020-08-14 00:54:24,809 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:54:25,014 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:54:25,053 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:54:25,238 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:54:25,271 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:54:25,305 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:54:25,496 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:54:25,500 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 5.282 seconds (JVM running for 5.919)
+2020-08-14 00:54:39,533 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 00:54:39,534 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 00:54:39,553 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 19 ms
+2020-08-14 00:54:39,603 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:54:39,615 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:54:44,571 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:54:44,574 INFO com.infrrd.processManagement.service.ProcessMangerService [task-1] Asnyc execution completed c568bd3f-f4ff-4243-91d7-5b3c97c340c4
+2020-08-14 00:54:47,148 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:54:47,150 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:54:50,009 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:54:50,009 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:54:51,777 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:54:51,777 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:56:01,019 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-5] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:56:01,949 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 52416 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:56:01,949 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:56:02,615 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:56:02,617 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:56:02,617 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:56:02,662 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:56:02,662 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 710 ms
+2020-08-14 00:56:02,840 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:56:02,901 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:56:02,907 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:56:02,963 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:56:02,965 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:56:02,970 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:56:03,008 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:56:03,009 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 1.086 seconds (JVM running for 103.429)
+2020-08-14 00:56:03,014 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:56:12,511 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-10] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:56:13,558 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 52416 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:56:13,559 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:56:14,176 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:56:14,178 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:56:14,179 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:56:14,220 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:56:14,221 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 660 ms
+2020-08-14 00:56:14,396 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:56:14,463 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:56:14,468 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:56:14,526 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:56:14,527 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:56:14,535 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:56:14,570 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:56:14,571 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 1.046 seconds (JVM running for 114.991)
+2020-08-14 00:56:14,573 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:56:21,047 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-16] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:56:22,034 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 52416 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:56:22,034 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:56:22,772 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:56:22,773 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:56:22,773 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:56:22,799 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:56:22,799 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 763 ms
+2020-08-14 00:56:22,982 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:56:23,045 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:56:23,051 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:56:23,109 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:56:23,111 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:56:23,116 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:56:23,140 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:56:23,142 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 1.13 seconds (JVM running for 123.561)
+2020-08-14 00:56:23,144 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:56:30,264 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 00:56:30,265 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 00:56:30,273 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-08-14 00:56:30,275 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:56:30,277 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:56:31,703 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:56:31,705 INFO com.infrrd.processManagement.service.ProcessMangerService [task-1] Asnyc execution completed 3ed9955e-081f-4061-99fc-a28fdf3677ec
+2020-08-14 00:56:33,070 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:56:33,072 INFO com.infrrd.processManagement.service.ProcessMangerService [task-2] Asnyc execution completed d027e48e-2270-46a1-9dcd-81c7c885e650
+2020-08-14 00:56:35,155 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:56:35,157 INFO com.infrrd.processManagement.service.ProcessMangerService [task-3] Asnyc execution completed 40f85a81-aba0-4582-82ad-b660a62d6dd8
+2020-08-14 00:56:40,032 INFO com.infrrd.processManagement.service.ProcessMangerService [task-4] Asnyc execution completed ace605df-02b7-40f5-badd-8dd66e7ffccc
+2020-08-14 00:57:30,545 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-22] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:57:31,655 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 52416 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:57:31,655 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:57:32,195 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:57:32,196 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:57:32,196 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:57:32,222 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:57:32,222 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 565 ms
+2020-08-14 00:57:32,333 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:57:32,379 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:57:32,384 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:57:32,429 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:57:32,430 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:57:32,433 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:57:32,454 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:57:32,455 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.827 seconds (JVM running for 192.874)
+2020-08-14 00:57:32,456 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:57:39,917 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-28] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:57:40,769 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 52416 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:57:40,770 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:57:41,214 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:57:41,215 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:57:41,216 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:57:41,242 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:57:41,242 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 470 ms
+2020-08-14 00:57:41,338 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:57:41,375 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:57:41,378 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:57:41,417 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:57:41,418 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:57:41,422 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:57:41,443 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:57:41,444 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.694 seconds (JVM running for 201.863)
+2020-08-14 00:57:41,445 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:58:03,039 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 00:58:03,042 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 00:58:03,048 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-08-14 00:58:03,059 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.infrrd.processManagement.controller.ProcessManagerController.end(ProcessManagerController.java:52) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_152]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_152]
+2020-08-14 00:58:34,578 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-34] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:58:35,655 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 52416 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 00:58:35,655 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 00:58:36,091 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 00:58:36,092 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 00:58:36,092 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 00:58:36,121 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 00:58:36,121 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 465 ms
+2020-08-14 00:58:36,243 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 00:58:36,273 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 00:58:36,276 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 00:58:36,307 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 00:58:36,308 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 00:58:36,311 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 00:58:36,330 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 00:58:36,331 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 0.695 seconds (JVM running for 256.75)
+2020-08-14 00:58:36,332 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 00:58:49,578 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 00:58:49,581 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 00:58:49,587 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-08-14 00:58:58,132 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:58:58,135 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 00:59:00,337 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 00:59:01,771 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:08:00,736 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Starting Boot2011Application on A2ML29921 with PID 17328 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:08:00,741 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:08:00,772 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-14 01:08:00,772 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-14 01:08:02,237 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:08:02,256 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:08:02,256 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:08:02,375 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:08:02,375 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 1603 ms
+2020-08-14 01:08:02,740 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:08:02,843 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:08:02,883 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:08:03,005 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:08:03,022 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:08:03,068 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:08:03,281 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:08:03,284 INFO com.infrrd.processManagement.Boot2011Application [restartedMain] Started Boot2011Application in 2.832 seconds (JVM running for 5.21)
+2020-08-14 01:08:36,903 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-5] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:08:46,478 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:08:46,483 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:08:46,531 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-08-14 01:08:46,531 INFO org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-08-14 01:08:49,673 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:08:49,699 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:08:49,699 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:08:49,821 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:08:49,821 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 3290 ms
+2020-08-14 01:08:50,412 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:08:50,589 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:08:50,624 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:08:50,826 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:08:50,854 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:08:50,896 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:08:51,061 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:08:51,064 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 4.977 seconds (JVM running for 5.603)
+2020-08-14 01:10:20,566 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-5] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:10:21,492 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:10:21,493 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:10:22,173 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:10:22,174 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:10:22,174 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:10:22,207 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:10:22,207 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 713 ms
+2020-08-14 01:10:22,399 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:10:22,458 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:10:22,464 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:10:22,521 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:10:22,522 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:10:22,527 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:10:22,555 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:10:22,556 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 1.088 seconds (JVM running for 97.095)
+2020-08-14 01:10:22,559 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:10:24,989 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-10] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:10:26,056 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:10:26,056 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:10:26,655 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:10:26,656 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:10:26,656 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:10:26,683 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:10:26,684 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 626 ms
+2020-08-14 01:10:26,845 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:10:26,905 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:10:26,910 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:10:26,960 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:10:26,963 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:10:26,970 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:10:26,999 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:10:27,000 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.967 seconds (JVM running for 101.538)
+2020-08-14 01:10:27,002 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:10:34,096 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 01:10:34,097 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 01:10:34,103 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-08-14 01:10:37,922 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:10:37,942 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 01:10:50,869 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:10:50,869 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 01:10:53,465 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:10:53,466 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 01:10:55,479 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:10:55,479 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 01:11:06,027 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-16] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:11:07,077 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:11:07,077 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:11:07,608 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:11:07,609 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:11:07,609 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:11:07,635 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:11:07,635 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 557 ms
+2020-08-14 01:11:07,729 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:11:07,774 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:11:07,778 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:11:07,822 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:11:07,822 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:11:07,826 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:11:07,847 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:11:07,848 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.79 seconds (JVM running for 142.386)
+2020-08-14 01:11:07,850 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:11:34,593 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-22] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:11:35,808 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:11:35,809 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:11:36,288 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:11:36,289 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:11:36,290 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:11:36,314 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:11:36,314 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 503 ms
+2020-08-14 01:11:36,428 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:11:36,478 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:11:36,483 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:11:36,526 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:11:36,527 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:11:36,531 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:11:36,554 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:11:36,555 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.769 seconds (JVM running for 171.093)
+2020-08-14 01:11:36,557 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:13:37,682 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-28] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:13:38,789 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:13:38,789 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:13:39,366 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:13:39,368 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:13:39,368 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:13:39,432 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:13:39,432 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 640 ms
+2020-08-14 01:13:39,595 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:13:39,630 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:13:39,633 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:13:39,693 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:13:39,695 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:13:39,706 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:13:39,760 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:13:39,762 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.995 seconds (JVM running for 294.301)
+2020-08-14 01:13:39,766 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:14:21,772 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-34] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:14:23,284 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:14:23,284 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:14:24,185 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:14:24,186 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:14:24,187 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:14:24,211 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:14:24,212 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 925 ms
+2020-08-14 01:14:24,357 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:14:24,394 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:14:24,398 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:14:24,457 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:14:24,458 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:14:24,465 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:14:24,487 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:14:24,488 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 1.232 seconds (JVM running for 339.027)
+2020-08-14 01:14:24,490 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:15:09,463 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-40] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:15:10,562 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:15:10,563 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:15:11,002 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:15:11,003 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:15:11,003 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:15:11,025 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:15:11,025 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 461 ms
+2020-08-14 01:15:11,107 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:15:11,135 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:15:11,137 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:15:11,166 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:15:11,166 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:15:11,170 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:15:11,186 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:15:11,187 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.645 seconds (JVM running for 385.725)
+2020-08-14 01:15:11,188 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:15:34,959 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-46] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:15:35,930 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:15:35,930 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:15:36,327 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:15:36,328 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:15:36,328 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:15:36,352 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:15:36,352 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 420 ms
+2020-08-14 01:15:36,436 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:15:36,470 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:15:36,472 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:15:36,501 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:15:36,503 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:15:36,506 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:15:36,520 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:15:36,520 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.608 seconds (JVM running for 411.059)
+2020-08-14 01:15:36,522 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:15:40,961 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-52] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:15:42,161 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:15:42,161 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:15:42,511 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:15:42,511 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:15:42,512 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:15:42,547 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:15:42,548 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 386 ms
+2020-08-14 01:15:42,665 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:15:42,694 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:15:42,696 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:15:42,725 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:15:42,725 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:15:42,729 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:15:42,745 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:15:42,746 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.603 seconds (JVM running for 417.284)
+2020-08-14 01:15:42,747 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:16:12,513 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-58] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:16:14,171 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:16:14,172 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:16:14,939 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:16:14,941 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:16:14,941 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:16:14,987 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:16:14,987 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 813 ms
+2020-08-14 01:16:15,156 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:16:15,226 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:16:15,231 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:16:15,286 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:16:15,288 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:16:15,295 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:16:15,321 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:16:15,321 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 1.18 seconds (JVM running for 449.86)
+2020-08-14 01:16:15,323 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:16:17,029 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 01:16:17,031 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 01:16:17,038 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-08-14 01:16:17,040 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:16:17,043 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 01:16:21,948 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:16:21,959 ERROR com.infrrd.processManagement.service.ProcessMangerService [task-1] An exception occured
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[na:1.8.0_152]
+	at com.infrrd.processManagement.service.ProcessMangerServiceImpl.executeProcess(ProcessMangerServiceImpl.java:18) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.AsyncExecutionInterceptor.lambda$invoke$0(AsyncExecutionInterceptor.java:115) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_152]
+2020-08-14 01:16:41,930 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:16:41,932 ERROR com.infrrd.processManagement.service.ProcessMangerService [task-2] An exception occured
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[na:1.8.0_152]
+	at com.infrrd.processManagement.service.ProcessMangerServiceImpl.executeProcess(ProcessMangerServiceImpl.java:18) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.AsyncExecutionInterceptor.lambda$invoke$0(AsyncExecutionInterceptor.java:115) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_152]
+2020-08-14 01:16:44,588 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:16:44,589 ERROR com.infrrd.processManagement.service.ProcessMangerService [task-3] An exception occured
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[na:1.8.0_152]
+	at com.infrrd.processManagement.service.ProcessMangerServiceImpl.executeProcess(ProcessMangerServiceImpl.java:18) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.AsyncExecutionInterceptor.lambda$invoke$0(AsyncExecutionInterceptor.java:115) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_152]
+2020-08-14 01:16:49,345 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Terminating the Process
+2020-08-14 01:16:49,346 ERROR com.infrrd.processManagement.service.ProcessMangerService [task-4] An exception occured
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[na:1.8.0_152]
+	at com.infrrd.processManagement.service.ProcessMangerServiceImpl.executeProcess(ProcessMangerServiceImpl.java:18) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.AsyncExecutionInterceptor.lambda$invoke$0(AsyncExecutionInterceptor.java:115) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_152]
+2020-08-14 01:16:51,210 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Terminating the Process
+2020-08-14 01:16:53,508 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Terminating the Process
+2020-08-14 01:17:36,263 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-64] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:17:37,694 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:17:37,694 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:17:38,492 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:17:38,493 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:17:38,493 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:17:38,519 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:17:38,519 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 823 ms
+2020-08-14 01:17:38,685 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:17:38,746 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:17:38,750 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:17:38,804 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:17:38,805 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:17:38,812 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:17:38,828 ERROR springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Unable to scan documentation context default
+java.lang.TypeNotPresentException: Type Cart not present
+	at sun.reflect.annotation.TypeNotPresentExceptionProxy.generateException(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.annotation.AnnotationInvocationHandler.invoke(Unknown Source) ~[na:1.8.0_152]
+	at com.sun.proxy.$Proxy115.response(Unknown Source) ~[na:na]
+	at springfox.documentation.swagger.annotations.Annotations.getResolvedType(Annotations.java:97) ~[springfox-swagger-common-2.9.2.jar:null]
+	at springfox.documentation.swagger.annotations.Annotations$1.apply(Annotations.java:72) ~[springfox-swagger-common-2.9.2.jar:null]
+	at springfox.documentation.swagger.annotations.Annotations$1.apply(Annotations.java:69) ~[springfox-swagger-common-2.9.2.jar:null]
+	at com.google.common.base.Present.transform(Present.java:75) ~[guava-20.0.jar:na]
+	at springfox.documentation.swagger.readers.operation.SwaggerOperationModelsProvider.collectFromApiOperation(SwaggerOperationModelsProvider.java:75) ~[springfox-swagger-common-2.9.2.jar:null]
+	at springfox.documentation.swagger.readers.operation.SwaggerOperationModelsProvider.apply(SwaggerOperationModelsProvider.java:62) ~[springfox-swagger-common-2.9.2.jar:null]
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsManager.modelContexts(DocumentationPluginsManager.java:136) ~[springfox-spring-web-2.9.2.jar:null]
+	at springfox.documentation.spring.web.scanners.ApiModelReader.read(ApiModelReader.java:65) ~[springfox-spring-web-2.9.2.jar:null]
+	at springfox.documentation.spring.web.scanners.ApiListingScanner.scan(ApiListingScanner.java:133) ~[springfox-spring-web-2.9.2.jar:null]
+	at springfox.documentation.spring.web.scanners.ApiDocumentationScanner.scan(ApiDocumentationScanner.java:71) ~[springfox-spring-web-2.9.2.jar:null]
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.scanDocumentation(DocumentationPluginsBootstrapper.java:101) [springfox-spring-web-2.9.2.jar:null]
+	at springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper.start(DocumentationPluginsBootstrapper.java:167) [springfox-spring-web-2.9.2.jar:null]
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:182) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.DefaultLifecycleProcessor.access$200(DefaultLifecycleProcessor.java:53) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.start(DefaultLifecycleProcessor.java:360) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.DefaultLifecycleProcessor.startBeans(DefaultLifecycleProcessor.java:158) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:122) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:893) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:163) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248) [spring-boot-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at com.infrrd.processManagement.ProcessManagement.main(ProcessManagement.java:12) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+Caused by: java.lang.ClassNotFoundException: Cart
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[na:1.8.0_152]
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:148) ~[spring-boot-devtools-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.Class.forName0(Native Method) ~[na:1.8.0_152]
+	at java.lang.Class.forName(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.generics.tree.ClassTypeSignature.accept(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.annotation.AnnotationParser.parseSig(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.annotation.AnnotationParser.parseClassValue(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.annotation.AnnotationParser.parseMemberValue(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.annotation.AnnotationParser.parseAnnotation2(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.annotation.AnnotationParser.parseAnnotations2(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.annotation.AnnotationParser.parseAnnotations(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Executable.declaredAnnotations(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Executable.declaredAnnotations(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Executable.getAnnotation(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.getAnnotation(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.lambda$determineCandidateConstructors$0(AutowiredAnnotationBeanPostProcessor.java:249) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:410) ~[spring-core-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:389) ~[spring-core-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:248) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1269) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1184) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:849) ~[spring-beans-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) [spring-context-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	... 12 common frames omitted
+2020-08-14 01:17:38,844 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:17:38,845 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 1.172 seconds (JVM running for 533.383)
+2020-08-14 01:17:38,847 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:17:47,603 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 01:17:47,604 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 01:17:47,607 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 3 ms
+2020-08-14 01:17:47,615 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8080-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Cart cannot be resolved to a type
+] with root cause
+java.lang.Error: Unresolved compilation problem: 
+	Cart cannot be resolved to a type
+
+	at com.infrrd.processManagement.controller.ProcessManagerController.start(ProcessManagerController.java:38) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882) ~[spring-webmvc-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200) ~[tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_152]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.17.jar:9.0.17]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_152]
+2020-08-14 01:18:21,761 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-70] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:18:22,935 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:18:22,935 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:18:23,499 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:18:23,502 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:18:23,502 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:18:23,619 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:18:23,619 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 682 ms
+2020-08-14 01:18:23,750 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:18:23,782 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:18:23,786 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:18:23,833 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:18:23,834 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:18:23,837 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:18:23,857 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:18:23,857 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.938 seconds (JVM running for 578.396)
+2020-08-14 01:18:23,858 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:18:34,404 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-76] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:18:35,283 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:18:35,284 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:18:35,682 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:18:35,683 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:18:35,683 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:18:35,706 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:18:35,707 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 422 ms
+2020-08-14 01:18:35,775 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:18:35,805 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:18:35,808 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:18:35,836 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:18:35,837 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:18:35,840 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:18:35,854 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:18:35,855 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.588 seconds (JVM running for 590.393)
+2020-08-14 01:18:35,856 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:18:39,314 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 01:18:39,315 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 01:18:39,320 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 4 ms
+2020-08-14 01:21:45,036 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-82] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:21:46,012 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:21:46,013 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:21:46,462 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:21:46,462 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:21:46,462 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:21:46,485 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:21:46,485 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 471 ms
+2020-08-14 01:21:46,563 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:21:46,594 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:21:46,597 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:21:46,632 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:21:46,633 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:21:46,637 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:21:46,657 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:21:46,657 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.664 seconds (JVM running for 781.195)
+2020-08-14 01:21:46,659 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:21:52,000 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 01:21:52,003 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 01:21:52,014 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 10 ms
+2020-08-14 01:23:05,921 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:23:05,924 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Started the Process
+2020-08-14 01:23:12,130 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:23:12,132 ERROR com.infrrd.processManagement.service.ProcessMangerService [task-1] An exception occured
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[na:1.8.0_152]
+	at com.infrrd.processManagement.service.ProcessMangerServiceImpl.executeProcess(ProcessMangerServiceImpl.java:18) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.AsyncExecutionInterceptor.lambda$invoke$0(AsyncExecutionInterceptor.java:115) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_152]
+2020-08-14 01:23:16,155 INFO com.infrrd.processManagement.controller.ProcessManagerController [http-nio-8080-exec-1] Starting the Process
+2020-08-14 01:23:16,156 ERROR com.infrrd.processManagement.service.ProcessMangerService [task-2] An exception occured
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[na:1.8.0_152]
+	at com.infrrd.processManagement.service.ProcessMangerServiceImpl.executeProcess(ProcessMangerServiceImpl.java:18) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.AsyncExecutionInterceptor.lambda$invoke$0(AsyncExecutionInterceptor.java:115) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_152]
+2020-08-14 01:24:33,776 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-88] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:24:33,776 ERROR com.infrrd.processManagement.service.ProcessMangerService [task-3] An exception occured
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[na:1.8.0_152]
+	at com.infrrd.processManagement.service.ProcessMangerServiceImpl.executeProcess(ProcessMangerServiceImpl.java:18) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_152]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_152]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at org.springframework.aop.interceptor.AsyncExecutionInterceptor.lambda$invoke$0(AsyncExecutionInterceptor.java:115) [spring-aop-5.1.6.RELEASE.jar:5.1.6.RELEASE]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_152]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_152]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_152]
+2020-08-14 01:24:34,699 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:24:34,699 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:24:35,219 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:24:35,220 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:24:35,220 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:24:35,244 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:24:35,244 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 541 ms
+2020-08-14 01:24:35,351 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:24:35,388 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:24:35,392 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:24:35,424 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:24:35,425 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:24:35,428 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:24:35,442 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:24:35,443 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.764 seconds (JVM running for 949.982)
+2020-08-14 01:24:35,445 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:26:02,019 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-94] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:26:03,044 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:26:03,045 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:26:03,486 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:26:03,487 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:26:03,487 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:26:03,514 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:26:03,515 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 469 ms
+2020-08-14 01:26:03,603 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:26:03,630 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:26:03,633 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:26:03,658 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:26:03,659 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:26:03,662 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:26:03,674 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:26:03,674 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.647 seconds (JVM running for 1038.213)
+2020-08-14 01:26:03,676 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:26:57,825 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-100] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:26:58,755 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:26:58,755 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:26:59,121 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:26:59,123 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:26:59,123 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:26:59,193 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:26:59,194 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 437 ms
+2020-08-14 01:26:59,271 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:26:59,294 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:26:59,297 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:26:59,321 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:26:59,322 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:26:59,325 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:26:59,337 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:26:59,338 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.599 seconds (JVM running for 1093.876)
+2020-08-14 01:26:59,339 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:27:28,104 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-106] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:27:28,991 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:27:28,991 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:27:29,506 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:27:29,508 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:27:29,508 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:27:29,552 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:27:29,552 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 560 ms
+2020-08-14 01:27:29,634 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:27:29,660 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:27:29,662 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:27:29,691 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:27:29,692 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:27:29,696 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:27:29,709 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:27:29,709 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.734 seconds (JVM running for 1124.248)
+2020-08-14 01:27:29,710 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:27:37,527 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-14 01:27:37,529 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-14 01:27:37,536 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-08-14 01:28:20,861 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-112] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:28:21,720 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:28:21,720 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:28:22,119 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:28:22,120 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:28:22,120 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:28:22,143 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:28:22,144 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 423 ms
+2020-08-14 01:28:22,207 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:28:22,233 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:28:22,235 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:28:22,261 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:28:22,262 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:28:22,265 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:28:22,279 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:28:22,280 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.577 seconds (JVM running for 1176.818)
+2020-08-14 01:28:22,281 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:28:40,942 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-118] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:28:41,898 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:28:41,898 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:28:42,263 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:28:42,264 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:28:42,264 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:28:42,287 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:28:42,287 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 387 ms
+2020-08-14 01:28:42,394 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:28:42,417 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:28:42,419 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:28:42,445 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:28:42,446 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:28:42,449 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:28:42,466 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:28:42,466 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.591 seconds (JVM running for 1197.005)
+2020-08-14 01:28:42,467 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:29:10,233 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-124] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:29:11,134 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:29:11,134 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:29:11,514 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:29:11,514 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:29:11,514 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:29:11,544 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:29:11,544 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 408 ms
+2020-08-14 01:29:11,611 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:29:11,639 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:29:11,642 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:29:11,672 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:29:11,673 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:29:11,676 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:29:11,694 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:29:11,695 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.579 seconds (JVM running for 1226.233)
+2020-08-14 01:29:11,696 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2020-08-14 01:29:31,384 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-130] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:29:32,344 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Starting ProcessManagement on A2ML29921 with PID 28596 (D:\201_SpringBoot\Work_Space\processManagement\target\classes started by M1043005 in D:\201_SpringBoot\Work_Space\processManagement)
+2020-08-14 01:29:32,345 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] No active profile set, falling back to default profiles: default
+2020-08-14 01:29:32,743 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2020-08-14 01:29:32,743 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2020-08-14 01:29:32,743 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-08-14 01:29:32,773 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2020-08-14 01:29:32,773 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 426 ms
+2020-08-14 01:29:32,843 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2020-08-14 01:29:32,879 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-14 01:29:32,882 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2020-08-14 01:29:32,916 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2020-08-14 01:29:32,917 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2020-08-14 01:29:32,920 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2020-08-14 01:29:32,939 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-14 01:29:32,939 INFO com.infrrd.processManagement.ProcessManagement [restartedMain] Started ProcessManagement in 0.614 seconds (JVM running for 1247.478)
+2020-08-14 01:29:32,941 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
