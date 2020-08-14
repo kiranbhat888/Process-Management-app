@@ -8,7 +8,7 @@
 *.war
 *.ear
 
-
+log/
 target/
 
 #Eclipse files

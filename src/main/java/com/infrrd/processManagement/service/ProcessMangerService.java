@@ -5,7 +5,12 @@ import java.util.concurrent.Future;
 
 import org.springframework.http.ResponseEntity;
 
+import com.infrrd.processManagement.dto.Response;
+
 public interface ProcessMangerService {
 
-	public Future<String> executeProcess();
+	
+	public ResponseEntity<Response> start();
+	public ResponseEntity<Response> end();
+//	public Future<String> executeProcess();
 }

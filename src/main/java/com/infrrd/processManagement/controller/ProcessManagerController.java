@@ -21,8 +21,11 @@ import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 import io.swagger.annotations.Authorization;
 
-
-
+/**
+ * 
+ * @author M1043005
+ *
+ */
 @RestController
 @RequestMapping("/process")
 public class ProcessManagerController {
@@ -30,56 +33,33 @@ public class ProcessManagerController {
 	ProcessMangerService processMangerService;
 
 	private static final Logger logger = LoggerFactory.getLogger(ProcessManagerController.class);
-	private static Future<String> future = null;
-
+	
+	/**
+	 * <p>Starts the process</p>
+	 * @return Status of the request and message contain current status of the process
+	 */
 	@GetMapping("/start")
 	@ApiOperation(value = "Start or Resart the process",
 	notes="This API strats a new process or terminates the running process and restarts it",response=Response.class)	
 	public ResponseEntity<Response> start(){
 
-		logger.info("Starting the Process");
-		
-		try {
-			if(future == null)
-				future = processMangerService.executeProcess();			
-			else if(!future.isDone()) {		    
-				if(future.cancel(true)) {
-					future = processMangerService.executeProcess();
-					logger.info("Process was Restarted");
-					return new ResponseEntity<Response>(new Response("Success","Running Process was Terminated and Restarted"),new HttpHeaders(), HttpStatus.OK);}
-				else
-					return new ResponseEntity<Response>(new Response("Failed","Failed to restart the process"),new HttpHeaders(), HttpStatus.OK);
-			}
-
-		}catch (Exception e) {
-			logger.error("An Exception occured",e);
-		}
-		
-		logger.info("Process was started sucessfully");
-		return new ResponseEntity<Response>(new Response("Success","New process Started"),new HttpHeaders(), HttpStatus.OK);
+		logger.info("Starting the Process");			
+		return processMangerService.start();
 
 	}
-
+	
+	
+	/**
+	 * <p>terminates the process</p>
+	 * @return Request status and Process status
+	 */
 	@GetMapping("/end")
 	@ApiOperation(value = "Terminate the running process",
 	notes="This API terminates the running process if any",response=Response.class)
 	public ResponseEntity<Response> end(){
+		
 		logger.info("Terminating the Process");
-		try {
-			if(future == null || future.isDone() )
-				return new ResponseEntity<Response>(new Response("Success","No process running"),new HttpHeaders(), HttpStatus.OK);
-			else if(!future.isDone()) {		    
-				if(future.cancel(true)) {
-					logger.info("Terminated the process successfully");
-					return new ResponseEntity<Response>(new Response("Success","Running Process was Terminated "),new HttpHeaders(), HttpStatus.OK);}
-				else
-					return new ResponseEntity<Response>(new Response("Failure","Failed to restart the process"),new HttpHeaders(), HttpStatus.OK);
-			}
-		}catch (Exception e) {
-			logger.error("An Exception occured",e);
-		}
-
-		return new ResponseEntity<Response>(new Response("Success","Process Terminated"),new HttpHeaders(), HttpStatus.OK);
+		return processMangerService.end();
 
 	}
 }
